@@ -1,0 +1,21 @@
+{
+  "name": "jquery-nsm-flyoutTrigger",
+  "main": "src/jquery.nsm.flyoutTrigger.js",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "Leevi Graham <leevi@newism.com.au>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.0",
+    "velocity": "~1.2.0",
+    "tether": "~1.3.4"
+  }
+}
